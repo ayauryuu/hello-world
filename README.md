@@ -1,2 +1,6 @@
 # hello-world
 just another repository
+
+Testing testing, let's write a little bit about myself. 
+This should be different from Master...
+Trying to figure this out...
